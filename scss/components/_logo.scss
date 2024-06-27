@@ -1,0 +1,12 @@
+.logo {
+  display: flex;
+  gap: 14px;
+
+  &__title {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 145.455% */
+    color: inherit;
+  }
+}
